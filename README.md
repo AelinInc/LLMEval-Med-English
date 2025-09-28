@@ -8,7 +8,7 @@
 > **Note:** For the Chinese version of this README, please refer to [README_zh.md](README_zh.md).
 
 ##  🩻 Disclosure of Changes
-To the best of our ability with translating the dataset through GPT-5-Nano, LLMEval-Med has been translated into a merged English-Chinese JSON set. While for our benchmarking, we're leaving this copy up for anyone to use the set. However, we haven't made any modifications to the evaluation script.
+To the best of our ability with translating the dataset through GPT-5-Nano, LLMEval-Med has been translated into a merged English-Chinese JSON set. While for benchmarking our framework, we're leaving this copy up for anyone to use the set for research purposes, as allowed under Fair Use. However, we haven't made any modifications to the evaluation script.
 
 ## 📚 Overview
 
