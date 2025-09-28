@@ -7,6 +7,9 @@
 
 > **Note:** For the Chinese version of this README, please refer to [README_zh.md](README_zh.md).
 
+##  🩻 Disclosure of Changes
+To the best of our ability with translating the dataset through GPT-5-Nano, LLMEval-Med has been translated into a merged English-Chinese JSON set. While for our benchmarking, we're leaving this copy up for anyone to use the set. However, we haven't made any modifications to the evaluation script.
+
 ## 📚 Overview
 
 LLMEval-Med provides a comprehensive, physician-validated benchmark for evaluating Large Language Models (LLMs) on real-world clinical tasks. The dataset covers a wide range of medical scenarios and is designed to facilitate rigorous, standardized assessment of medical LLMs. For details on the benchmark design, evaluation protocol, and baseline results, please refer to our [paper](https://arxiv.org/abs/2506.04078).
